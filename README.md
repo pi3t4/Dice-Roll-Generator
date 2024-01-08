@@ -31,5 +31,5 @@ Roll Again? y
 Notes
 - The script efficiently clears the console screen for a cleaner display.
 - Input validation ensures that only '1' or '2', as well as their textual representations ('one' or 'two'), are accepted for the number of dice.
-Feel free to use and modify this script as needed for your projects or entertainment purposes. Happy rolling! 🎲
+Feel free to use and modify this script as needed for your projects or entertainment purposes. Happy rollings! 🎲
 
